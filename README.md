@@ -1,6 +1,6 @@
 # MeMC_Forge Project
 ## 一些小工具，可以帮助你在 memc.cc 上运行Minecraft Forge服务端
-我们同时为 README 文件提供以下其他语言： **[English](README_en)
+我们同时为 README 文件提供以下其他语言： **[English](README_en)**
 #### 为什么要做这个项目？
 事情是这样的，我有一个朋友想使用 [MeMC](memc.cc) 开一个Minecraft Forge服务器来游玩某整合包，但他说在MeMC上安装Forge有问题（具体说是MeMC不支持GUI界面，Forge安装器在没有参数传递时默认会运行GUI界面，导致无法安装Forge），所以找我帮忙。我考虑到我制作的这两个小工具或许能帮到更多的人，所以我就开源出来了。
 #### 如何使用这个项目？
