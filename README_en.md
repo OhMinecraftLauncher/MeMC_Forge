@@ -1,11 +1,11 @@
-# MeMC_Forge Project
-### Some small tools which can help you run Minecraft Forge Server on memc.cc
+# WeMC_Forge Project
+### Some small tools which can help you run Minecraft Forge Server on wemc.cc
 We also provide following other language for README file: **[中文](README.md)**
 #### Why do I do this project?
-The thing is, I have a friend who wants to use [MeMC](memc.cc) to open a Minecraft Forge server to play a certain integration package, but he said there is a problem installing Forge on MeMC (specifically, MeMC does not support GUI interface, the Forge installer will run GUI interface by default without parameter passing, which makes it impossible to install Forge), so he asked me for help. I considered that the two small tools I made might help more people, so I opened them up.
+The thing is, I have a friend who wants to use [WeMC](wemc.cc) to open a Minecraft Forge server to play a certain integration package, but he said there is a problem installing Forge on WeMC (specifically, WeMC does not support GUI interface, the Forge installer will run GUI interface by default without parameter passing, which makes it impossible to install Forge), so he asked me for help. I considered that the two small tools I made might help more people, so I opened them up.
 #### How to use this project?
 > PREREQUISITE
-> - Have a MeMC account, and already created a instance.
+> - Have a WeMC account, and already created a instance.
 > - Have a certain foundation and experience of Linux and Minecraft Server.
 > - A brain that knows how to think and search for information, and a mouth (hand) that is good at asking questions **CORRECTLY**.
 - **FIRST**: Open your instance's file manager.
